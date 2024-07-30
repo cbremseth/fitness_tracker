@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": "30",
+        "email": "alice.johnson@example.com",
+        "phone": "555-1234",
+        "address": "123 Main St, Anytown, USA",
+        "goals": [
+            "Lose 10 pounds",
+            "Run a marathon",
+            "Increase strength"
+        ]
+    },
+    {
+        "name": "Catherine Brown",
+        "age": "25",
+        "email": "catherine.brown@example.com",
+        "phone": "555-8765",
+        "address": "789 Pine St, Yourtown, USA",
+        "goals": [
+            "Complete a triathlon",
+            "Increase stamina",
+            "Reduce body fat"
+        ]
+    },
+    {
+        "name": "David Wilson",
+        "age": "35",
+        "email": "david.wilson@example.com",
+        "phone": "555-4321",
+        "address": "321 Cedar St, Theirtown, USA",
+        "goals": [
+            "Lower blood pressure",
+            "Run 5 miles non-stop",
+            "Build core strength"
+        ]
+    },
+    {
+        "name": "Eva Martinez",
+        "age": "28",
+        "email": "eva.martinez@example.com",
+        "phone": "555-6789",
+        "address": "654 Maple St, Anycity, USA",
+        "goals": [
+            "Achieve a healthy BMI",
+            "Increase endurance",
+            "Participate in a cycling event"
+        ]
+    }
+]
